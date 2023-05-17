@@ -1,0 +1,2 @@
+# NUCLEO-H743ZI2-as-USB-to-serial
+NUCLEO H743ZI2 as USB to serial | µC: STM32H743ZIT6U
